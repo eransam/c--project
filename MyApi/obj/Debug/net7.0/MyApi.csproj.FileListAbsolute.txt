@@ -1,0 +1,14 @@
+C:\eran\work-project\c-sharp\MyApi\obj\Debug\net7.0\MyApi.csproj.AssemblyReference.cache
+C:\eran\work-project\c-sharp\MyApi\obj\Debug\net7.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\eran\work-project\c-sharp\MyApi\obj\Debug\net7.0\MyApi.AssemblyInfoInputs.cache
+C:\eran\work-project\c-sharp\MyApi\obj\Debug\net7.0\MyApi.AssemblyInfo.cs
+C:\eran\work-project\c-sharp\MyApi\obj\Debug\net7.0\MyApi.csproj.CoreCompileInputs.cache
+C:\eran\work-project\c-sharp\MyApi\obj\Debug\net7.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\eran\work-project\c-sharp\MyApi\obj\Debug\net7.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\eran\work-project\c#\solution\MyApi\obj\Debug\net7.0\MyApi.csproj.AssemblyReference.cache
+C:\eran\work-project\c#\solution\MyApi\obj\Debug\net7.0\MyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\eran\work-project\c#\solution\MyApi\obj\Debug\net7.0\MyApi.AssemblyInfoInputs.cache
+C:\eran\work-project\c#\solution\MyApi\obj\Debug\net7.0\MyApi.AssemblyInfo.cs
+C:\eran\work-project\c#\solution\MyApi\obj\Debug\net7.0\MyApi.csproj.CoreCompileInputs.cache
+C:\eran\work-project\c#\solution\MyApi\obj\Debug\net7.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\eran\work-project\c#\solution\MyApi\obj\Debug\net7.0\MyApi.MvcApplicationPartsAssemblyInfo.cache
